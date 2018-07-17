@@ -1,0 +1,5 @@
+/models/
+/twitter_models/
+*.npy
+*.txt
+*.pkl
